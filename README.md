@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 How to reach me **six#6186**
+- 📫 My discord username: pessialt
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
