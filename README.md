@@ -3,7 +3,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pessiuff&label=Profile%20views&color=0e75b6&style=flat" alt="pessiuff" /> </p>
 
-- 🔭 I’m currently working on [Runes+](https://github.com/pessiuff/runesplus)
+- 🔭 I’m currently working on [Contracts](https://github.com/MinePlus-Network/Contracts)
 
 - 🌱 I’m currently learning **Java**
 
