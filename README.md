@@ -7,9 +7,9 @@
 
 - 🌱 I’m currently learning **Java**
 
-- 📫 My discord username: pessialt
-
 <h3 align="left">Connect with me:</h3>
+- 📫 My discord username: pessialt
+- 🪙 My Spigot profile: [Click!](https://www.spigotmc.org/members/usenmez.564155/)
 <p align="left">
 </p>
 
