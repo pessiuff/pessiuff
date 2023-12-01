@@ -3,10 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pessiuff&label=Profile%20views&color=0e75b6&style=flat" alt="pessiuff" /> </p>
 
-- 🔭 I’m currently making a game engine in Rust.
+- 🔭 I’m currently making a game engine in C++.
 
-<del>- 🌱 I’m currently learning **Java**.</del>
-- 🌱 I’m currently learning **Rust**.
+- 🌱 I’m currently learning **OpenGL**.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
