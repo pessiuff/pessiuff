@@ -1,6 +1,5 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pessiuff&label=Profile%20views&color=0e75b6&style=flat" alt="pessiuff" /> </p>
 
-- 🔭 I’m currently making a game engine in C++.
 - 🌱 I’m currently learning **OpenGL** & **WebSocket++**.
 
 <h3 align="left">Connect with me:</h3>
