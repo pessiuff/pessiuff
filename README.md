@@ -4,7 +4,7 @@
 <p align="left">
 </p>
 
-- 📫 My discord username: pessialt
+- 📫 My discord username: pessiuff.xyz
 - 🪙 My Spigot profile: [Click!](https://www.spigotmc.org/members/usenmez.564155/)
 
 <h3 align="left">Languages and Tools:</h3>
