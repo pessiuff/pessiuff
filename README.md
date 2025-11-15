@@ -5,6 +5,8 @@
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=zig" height="48" alt="zig logo"  />
   <img width="8" />
+  <img src="https://skillicons.dev/icons?i=java" height="48" alt="java logo"  />
+  <img width="8" />
   <img src="https://skillicons.dev/icons?i=lua" height="48" alt="lua logo"  />
   <img width="8" />
   <img src="https://skillicons.dev/icons?i=unreal" height="48" alt="unrealengine logo"  />
